@@ -1,0 +1,11 @@
+qwer
+12345
+qwe34r_$
+22 + 34
+(e34r) - (we6789)
+234 * x && ertg / 789 < awe
+234 + x == (ertg % 789) < awe
+234+x!=ertg-789<awe
+234+(x||ertg)-789<=awe
+ 234-((x||ertg))-789>awe
+234!=( (x||ertg) -789)>=awe  

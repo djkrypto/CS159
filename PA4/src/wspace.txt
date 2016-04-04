@@ -1,0 +1,15 @@
+a b
+ab 
+55 
+ 55
+(55 )
+( 55)
+55 + 55
+55  +  55
+55   +   55
+ab cd5
+a bcd5
+ab  cd5
+ab  +cd5
+ab  +     cd5
+abcdefg    +    abcdefg
